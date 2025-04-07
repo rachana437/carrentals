@@ -1,4 +1,4 @@
-git colne https://github.com/rachana437/carrentals.git
+git clone https://github.com/rachana437/carrentals.git
 
 cd carrentals
 
